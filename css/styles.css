@@ -53,3 +53,14 @@
 .stew-description-p {
   font-size: 36px;
 }
+
+.pot-image {
+  width: 400px;
+}
+
+.odin-recipes-h1 {
+  font-size: 40px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
