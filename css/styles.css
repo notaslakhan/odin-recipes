@@ -37,3 +37,11 @@
 .steps-list {
   font-size: 24px;
 }
+
+.stew-h1 {
+  color: purple;
+  background-color: yellow;
+  text-align: center;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
